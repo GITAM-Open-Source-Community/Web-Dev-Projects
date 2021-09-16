@@ -3,17 +3,20 @@
 
 ---
 
-I you have any projects dont in the the following frame works.
+If you have any projects done in the the following frameworks.
 * Flask
 * Django
 * Nodejs
-* other.
+* React
+* VueJs
+* Angular
+* or anyother framework
 
 Push them in their respective folders.
 
-creat a folder of ur project name and push them in there respective folders. 
+creat a folder with your project name and push them in there respective folders. 
 <br>
-**Note:** make sure ur project tech stack matches the with the following folder
+**Note:** make sure your project tech stack matches the with the following folder
 
 ## 😎 Folder Structure.
 ---
