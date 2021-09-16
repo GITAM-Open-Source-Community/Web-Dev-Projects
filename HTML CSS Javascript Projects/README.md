@@ -1,14 +1,14 @@
 # 🌐 HTML CSS Javascript Projects
 
-
-
+> All the front end projects that you have done and be added here. <br>
+Show your front-end & UI/UX 🤟 
 ---
 
 
 
-Push them in their respective folders.
+Push them into their respective folders.
 
-creat a folder of ur project name and push them in there respective folders. 
+Create a folder of your project name and push them in their respective folders. 
 <br>
 
 ## 😎 Folder Structure.
@@ -23,8 +23,5 @@ creat a folder of ur project name and push them in there respective folders.
 
 
 1.   *Readme File*: describing Your work. 📄
-2.   *project_screen_short.png* : ur working project screen short. 🖼
-3.   *project files* : All the main files of ur project.
-
-
-
+2.   *project_screen_short.png*: your working project screen is short. 🖼
+3.   *project files*: All the main files of your project.
